@@ -8,7 +8,7 @@
 #include<string>//getline
 #include<cstring>
 #include<fileapi.h>
-#define STR "C:\\Users\\Dell\\Desktop\\PHASE2PROJECT\\HttpClass\\FileRepositary\\"
+#define STR "C:\\Users\\Dell\\Desktop\\HTTPServerProject\\HttpClass\\FileRepositary\\"
 SOCKET TCPServerSocket;
 struct sockaddr_in TCPServerAdd;
 #define MAX 500
