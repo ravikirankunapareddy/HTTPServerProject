@@ -1,0 +1,3 @@
+﻿  HttpClass.cpp
+  C:\Users\Dell\Desktop\PHASE2PROJECT\HttpClass\HttpClass.cpp(226) : warning C4715: 'clientThread': not all control paths return a value
+  HttpClass.vcxproj -> C:\Users\Dell\Desktop\PHASE2PROJECT\HttpClass\Debug\HttpClass.exe
